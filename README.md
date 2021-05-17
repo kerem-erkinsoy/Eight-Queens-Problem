@@ -1,2 +1,2 @@
 # Eight-Queens-Problem
-Solving 8 queen problems with the hill climbing method
+Solving Eight Queens problem with the hill climbing method
